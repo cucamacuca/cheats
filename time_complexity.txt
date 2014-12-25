@@ -1,0 +1,23 @@
+Time Complexity - The O Notation
+
+O(1) - Constant Time
+
+O(n) - Linear Time
+
+O(Log n) - Logarithmic time
+
+O(n^2) - Quadratic Time
+
+O(n + m) - Linear Time
+
+An Average computer can perform 10^8 = 100 million in less than a second
+
+For good implementation check this:
+
+n <= 10^6 -> implement solution 0(n) or O (nlogn)
+
+n <= 10^4 -> implement O(n^2) or previous
+
+n <= 10^3 -> implement O(n^3) or previous
+
+Use these values as a reference, only.
