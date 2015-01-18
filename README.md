@@ -8,3 +8,4 @@ Cheats that will help me in the future
 - Merge Sort Algorithm
 - Quick Sort Algorithm
 - Insertion Sort Algorithm
+- Selection Sort Algorithm
