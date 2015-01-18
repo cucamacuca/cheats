@@ -7,3 +7,4 @@ Cheats that will help me in the future
 - Binary Search Algorithm
 - Merge Sort Algorithm
 - Quick Sort Algorithm
+- Insertion Sort Algorithm
