@@ -2,7 +2,6 @@
 # O(n log n)
 def merge_sort(alist):
     if len(alist)>1:
-        
         # divide and conquer
         mid = len(alist)//2
         
